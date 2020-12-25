@@ -5,11 +5,11 @@ import org.testng.annotations.Test;
 
 @Test
 public class Test_1 {
-	int a = 10 ;
-	int b = 20;
-	int x=5;
-	int c= a+b;
-	int d= a+b-x
+	statc int a = 10 ;
+	static int b = 20;
+	static int x=5;
+	static int c= a+b;
+	static int d= a+b-x;
 	public static void main(string[] args){
 	System.out.prinntln(d);
 	}
